@@ -18,5 +18,5 @@ This repository corresponds to the following paper:
 
 ## Code Availability
 
-The source code will be **publicly released upon paper acceptance**.
+The source code will be **released soon**.
 
