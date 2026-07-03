@@ -1,6 +1,6 @@
 # RMT-PR
 
-Official implementation of **RMT-PR: A Reverse-View Mamba-Transformer with Cross-View Adaptive Feature Fusion for LiDAR Place Recognition**.
+Official project of **RMT-PR: A Reverse-View Mamba-Transformer with Cross-View Adaptive Feature Fusion for LiDAR Place Recognition**.
 
 ## Overview
 
