@@ -1,0 +1,18 @@
+data_root:
+  # Path to the reference/database sequence. 
+  data_root_folder: "./data/NCLT/2012-01-08/ri_bev/"
+
+  # Training pair index file.
+  triplets_for_training: "./train_set_index/more_chosen_normalized_data_120108.npy"
+
+  # Path to the query/test sequence. 
+  data_root_folder_test: "./data/NCLT/2012-06-15/ri_bev/"
+
+  # Trained checkpoint path.
+  test_weights: "./checkpoints/trained_RMT_PR.pth.tar"
+
+  # Ground-truth positives for evaluation.
+  gt_file: "./groundtruth/gt_120108_120615.npy"
+
+training_config:
+  training_seqs: ["2012-01-08"]
