@@ -74,9 +74,6 @@ If you find this repository useful, please cite:
 }
 ```
 
-## Acknowledgements
-
-We sincerely thank the authors of several excellent open-source LiDAR place recognition and sequence modeling projects, including **OverlapNet**, **OverlapTransformer**, **CVTNet**, **OverlapMamba**, and Mamba-related PyTorch implementations. Their publicly available code and research provided valuable references for data preprocessing, evaluation protocols, model design, and implementation.
 
 ## Acknowledgements
 
